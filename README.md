@@ -1,6 +1,23 @@
-<br clear="both">
+### ⁍ Nguyen Huy Vu Dung
 
-<h3 align="left">Hi 👋! My name is Dung and I'm student, from School of Information and Communications Technology - Hanoi University of Science and Technology.</h3>
+```
+File  Action  Edit  View  Help
+
+┌──(dungNHVhust㉿GitHub)-[~]
+└─$ cat about-me
+
+⁍ Name : Nguyen Huy Vu Dung
+⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
+⁍ ??   : Computer Engineering Student @ Hanoi University Of Science And Technology
+
+: Learning :
+==> Source Code Analysis (White Box Testing)
+==> Black Box Testing (a lil' bit)
+
+```
+
+---
+
 
 ###
 

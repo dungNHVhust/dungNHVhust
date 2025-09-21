@@ -1,3 +1,22 @@
+<h1 align="center">Taneora</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dungNHVhust&label=Profile%20views&color=0e75b6&style=flat" alt="dungNHVhust" /> </p>
+<img align="right" alt="Hacking" width="465" src="https://giffiles.alphacoders.com/174/1744.gif"
+<div align="center">
+  <div style="display: flex; gap: 20px;">
+  <!-- GitHub Stats (Left) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dungNHVhust&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
+  
+  <!-- Streak Stats (Right) -->
+  <img src="https://streak-stats.demolab.com?user=dungNHVhust&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
+  <img src="https://github-profile-trophy.vercel.app?username=dungNHVhust&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
+</picture>
+---
 ### ⁍ Nguyen Huy Vu Dung
 
 ```
@@ -17,45 +36,3 @@ File  Action  Edit  View  Help
 ```
 
 ---
-
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dungNHVhust&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dungNHVhust&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="left">Tools I usally</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-</div>
-
-
-###

@@ -17,8 +17,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
 </picture>
 ---
-### ⁍ Nguyen Huy Vu Dung
-
 ```
 File  Action  Edit  View  Help
 

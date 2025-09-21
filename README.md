@@ -1,4 +1,4 @@
-<h1 align="center">Taneora</h1>
+<h1 align="center">Dung Huy Vu</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dungNHVhust&label=Profile%20views&color=0e75b6&style=flat" alt="dungNHVhust" /> </p>
 <img align="right" alt="Hacking" width="465" src="https://giffiles.alphacoders.com/174/1744.gif"
 <div align="center">

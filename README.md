@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dungNHVhust&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
   
   <!-- Streak Stats (Right) -->
-  <img src="https://streak-stats.demolab.com?user=dungNHVhust&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <!-- <img src="https://streak-stats.demolab.com?user=dungNHVhust&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> -->
 </div>
 </div>
 <picture>

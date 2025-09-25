@@ -10,13 +10,6 @@
   <!-- <img src="https://streak-stats.demolab.com?user=dungNHVhust&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> -->
 <!-- </div> -->
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ```
 File  Action  Edit  View  Help
@@ -34,3 +27,8 @@ File  Action  Edit  View  Help
 
 ```
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dungNHVhust/dungNHVhust/output/pacman-contribution-graph.svg">
+</picture>

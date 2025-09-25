@@ -20,10 +20,12 @@ File  Action  Edit  View  Help
 ⁍ Name : Nguyen Huy Vu Dung
 ⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
 ⁍ ??   : Computer Engineering Student @ Hanoi University Of Science And Technology
+⁍ ??   : Penetration Tester at CyRadar
 
 : Learning :
 ==> Source Code Analysis (White Box Testing)
-==> Black Box Testing (a lil' bit)
+==> Black Box Testing 
+==> Red Teaming (Reconnaissance , Post-exploitation , Privilege escalation) (a lil' bit).
 
 ```
 ---

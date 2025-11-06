@@ -20,7 +20,7 @@ File  Action  Edit  View  Help
 ⁍ Name : Nguyen Huy Vu Dung
 ⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
 ⁍ ??   : Computer Engineering Student @ Hanoi University Of Science And Technology
-⁍ ??   : Penetration Tester at CyRadar
+⁍ ??   : Penetration Tester at CMC Telecom
 
 : Learning :
 ==> Source Code Analysis (White Box Testing)

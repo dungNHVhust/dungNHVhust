@@ -18,14 +18,14 @@ File  Action  Edit  View  Help
 └─$ cat about-me
 
 ⁍ Name : Nguyen Huy Vu Dung
-⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
+⁍ ??   : Offensive Security Expert (Gonna be - Wanna be)?!
 ⁍ ??   : Computer Engineering Student @ Hanoi University Of Science And Technology
 ⁍ ??   : Penetration Tester at ...
 
 : Learning :
 ==> Source Code Analysis (White Box Testing)
 ==> Black Box Testing 
-==> Red Teaming (Reconnaissance , Post-exploitation , Privilege escalation) (a lil' bit).
+==> Red Teaming (Reconnaissance , Post-exploitation , Privilege escalation , Active Directory) (a lil' bit).
 
 ```
 ---

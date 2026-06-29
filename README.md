@@ -23,8 +23,8 @@ File  Action  Edit  View  Help
 ⁍ ??   : Penetration Tester at The-Place-That-No-One-Knows
 
 : Learning :
-==> Source Code Analysis (White Box Testing)
-==> Black Box Testing 
+==> Source Code Analysis (a lil' bit of Web, a lil' bit of Android, iOS coming soon)
+==> Black/Grey Box Testing 
 ==> Red Teaming (Reconnaissance , Post-exploitation , Privilege escalation , Active Directory) (a lil' bit).
 
 ```

@@ -20,7 +20,7 @@ File  Action  Edit  View  Help
 ⁍ Name : Nguyen Huy Vu Dung
 ⁍ ??   : Offensive Security Expert (Gonna be - Wanna be)?!
 ⁍ ??   : Computer Engineering Student @ Hanoi University Of Science And Technology
-⁍ ??   : Penetration Tester at The Place-That-No-One-Knows
+⁍ ??   : Penetration Tester at The-Place-That-No-One-Knows
 
 : Learning :
 ==> Source Code Analysis (White Box Testing)
